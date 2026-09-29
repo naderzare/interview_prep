@@ -16,3 +16,5 @@
 | 09 | [Dynamic programming](09-dynamic-programming.md) | Do smaller answers repeat and combine? |
 
 Each card has a quick recognition cue, a core template, a variation guide, and two tiny examples. Choose the variation before coding. Keep [session notes](notes.md) to two short lines per session.
+
+For hands-on recall, solve the [topic practice questions](practice/README.md): 10 unsolved Python questions per topic, from simpler to harder.
